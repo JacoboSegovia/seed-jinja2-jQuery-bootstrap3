@@ -1,0 +1,16 @@
+*~
+*.log
+*.db
+*.project
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+deployApp.sh
+bower_components/*
+node_modules/*
+app/dist/*
+context_vars/__pycache__/
+__pycache__
+release/
+src/client/lib/
+.idea/
